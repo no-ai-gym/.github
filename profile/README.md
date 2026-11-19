@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="./assets/main.png" alt="NO AI GYM 입구" width="100%" />
+  <img src="https://raw.githubusercontent.com/no-ai-gym/.github/main/assets/main.png" alt="NO AI GYM 입구" width="100%" />
 
   <br />
   <br />
 
-  <img src="./assets/background.png" alt="AI 구현 공장과 NO AI GYM" width="100%" />
+  <img src="https://raw.githubusercontent.com/no-ai-gym/.github/main/assets/background.png" alt="AI 구현 공장과 NO AI GYM" width="100%" />
 
   <br />
   <br />
 
-  <img src="./assets/advantage.png" alt="이점" width="100%" />
+  <img src="https://raw.githubusercontent.com/no-ai-gym/.github/main/assets/advantage.png" alt="이점" width="100%" />
 
   <br />
   <br />
 
-  <img src="./assets/supported-languages.png" alt="지원 언어: Swift, JavaScript, TypeScript, Python, Go, Java, Kotlin, C, C++, C#, Rust, Dart, Ruby" width="100%" />
+  <img src="https://raw.githubusercontent.com/no-ai-gym/.github/main/assets/supported-languages.png" alt="지원 언어: Swift, JavaScript, TypeScript, Python, Go, Java, Kotlin, C, C++, C#, Rust, Dart, Ruby" width="100%" />
 
 </div>
 
